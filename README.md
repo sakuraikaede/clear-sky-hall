@@ -23,4 +23,4 @@ PR的话，直接在README.md中添加自己认为很温暖的句子，之后合
 
 + 祝每天都能 `0 errors, 0 warnings`
 
-+ 
++ ![cowsay](https://i.loli.net/2020/12/23/DJujxeFrSX4v2UO.png)
